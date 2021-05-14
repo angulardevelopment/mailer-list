@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "mailer"
+  "defaultProject": "mailer",
+  "cli": {
+    "analytics": false
+  }
 }
